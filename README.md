@@ -1,4 +1,4 @@
-Mobile Phone Price Prediction with Regression Analysis
+# Mobile Phone Price Prediction with Regression Analysis
 
 
 This repository contains the project deliverables for analyzing a mobile phone dataset to predict prices using multiple linear regression. The project investigates relationships between mobile phone features (screen size, RAM, storage, battery capacity, camera quality) and their prices, using statistical techniques and R programming to uncover consumer preferences and industry trends.
